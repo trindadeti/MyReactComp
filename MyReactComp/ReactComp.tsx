@@ -25,7 +25,7 @@ export class ReactComp extends React.Component<IReactCompProps, IReactCompState>
     super(props);
 
     this.state = {
-      myvalue:"Hello 365 Saturday!"
+      myvalue:"Hello PCF REACT!"
     };
   }
 
